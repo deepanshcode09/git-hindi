@@ -3,4 +3,8 @@
 ## Install
 
 this is some intallation instruction
- 
+
+
+ ```bash
+ npm install
+ ```
